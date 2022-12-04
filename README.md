@@ -2,17 +2,17 @@
 
 Hi. This is my first try in sharing some of the things I worked on.
 
-Most of the stuff is connected to Obsidian.md
+Most of the topics here are somewhat connected to Obsidian.md
 
 ## My background
 
-I am a  studied Psychologist specialized in communication and interaction. I am a system thinker. 
-And I am a strong enthusiast of _Quantum Mechanic_.
+I am a  studied Psychologist specialized in communication and interaction. I am a system thinker and a strong enthusiast of _Quantum Mechanics_.
 
-I believe *Theodor Schulz von Thun* when he says, that in communication 1 + 2 = 3.
-There is always one part wich i created by the two unique identities(systems) which share information. Information itself is quantized, but one can never know the benefit, the quality (worth/Impact) the Information creates in the receiving system.
+I believe *Theodor Schulz von Thun* when he says, that in communication one plus one equals three. 
+There is always one part wich is created by the two unique identities(systems) which share their information. 
+Tho Information itself is quantized, one can never know the quality (the benefit, the worth, the Impact) the Information creates in the receiving system.
 
-What we learn from the brain, that its efficiency comes from clustering information in *Neural Networks*, like the ones we try to approximate and train in machine learning opperations.
+We learn from the brain, that its efficiency comes from clustering information in *Neural Networks*, like the ones we try to approximate and train in machine learning opperations.
 
 Setting links and relations between chunks is the most intuitive way to structure information, in contrast to having folders and drawers (german: "Schubladendenken"), where everything has to fit in ONE fixed category.
 
@@ -20,10 +20,12 @@ Setting links and relations between chunks is the most intuitive way to structur
 
 # Information: All in One system – All in one Place
 
-For the many years, I worked on different methods to structure Information for different usecases within different systems and collaborative softwares. By myself or shared with teams.
+For the many years, I worked on different methods to structure Information for different usecases within different systems/softwares and collaborative situations. By myself or within a team.
 
 
-I have a BulletJournal which I used daily since 2018. I also used notes-apps a lot:
+Since 2018 I used a BulletJournal on a daily basis to structrure work and private tasks, goals, events, Idea collections & so on.
+
+I also used notes-apps a lot:
 - Evernote
 - MS Notes
 - Mac Notes
@@ -48,4 +50,4 @@ Over the time, I created my own system. With it comes my own obsidian Theme "Pin
 
 Since I am not a technical engineer, no computer scientist nor any type of programmer, this was quite the learning-path for me.
 The outcome is not perfect. From a technical standpoint it may be far fetched to call it good programming practice – I am no webdev. 
-I am a communicator. I help to communicate and agregate. So does my theme.
+I am a communicator. I help to communicate and agregate.
