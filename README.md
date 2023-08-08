@@ -1,12 +1,10 @@
 ### I dont really know what I am doing here and where this is going yet..
 
 This is a first try in sharing some of the things I worked on.
-Most of the topics here are somewhat connected to Obsidian.md
+
+Most of the topics here on github will probably be somewhat connected to Obsidian.md
 
 
-
-
-## My background
 
 I am no developer. 
 I am a communicator. I help to communicate and aggregate.
