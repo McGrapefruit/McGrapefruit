@@ -13,4 +13,4 @@ I am a studied Psychologist specialized in communication and interaction – a s
 The psychologist *Theodor Schulz von Thun* says, that in communication one plus one equals three. 
 There is always a new part which is created by the two unique identities(systems) when they exchange information. 
 
-Altho Information itself is quantized, one can never know the quality (the benefit, the worth, the impact) of information. One can never anticipate in which way the new information will change the receiving system.
+Altho Information itself is quantized, one can never know the quality (the benefit, the worth, the impact) of one piece of information. One can never anticipate in which way the new information will change the receiving system. 
